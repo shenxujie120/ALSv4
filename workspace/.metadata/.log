@@ -316,3 +316,28 @@ java.lang.UnsatisfiedLinkError: no jdns_sd in java.library.path
 
 !ENTRY org.xmind.ui.mindmap 4 4 2023-02-26 05:56:21.445
 !MESSAGE [save] start...[save] add state...[save] clean...[save] doSave start...[save] doSaveWorkbookToTempStorage start...[save] doSaveWorkbookToTempStorage over...[save] doSaveWorkbookToURIFromSource start...[save] new file...[save] serialize start...[save] new FileOutputStream...[save] setOutputStream...[save] serialize success...[save] doSaveWorkbookToURIFromSource over...[save] doSave over...[save] success...over...
+!SESSION 2023-03-09 00:49:40.157 -----------------------------------------------
+eclipse.buildId=R3.7.9.201912052356
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -eclipse.keyring @user.home/Application Data/XMind/secure_storage D:\Unreal\Project\ALSv4\ALSv4.xmind
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data ./workspace -eclipse.keyring @user.home/Application Data/XMind/secure_storage D:\Unreal\Project\ALSv4\ALSv4.xmind
+
+!ENTRY org.xmind.cathy 1 0 2023-03-09 00:49:49.651
+!MESSAGE Skip unrecognized command line argument: '-eclipse.keyring'
+
+!ENTRY org.xmind.cathy 1 0 2023-03-09 00:49:49.652
+!MESSAGE Skip unrecognized command line argument: '@user.home/Application Data/XMind/secure_storage'
+
+!ENTRY org.xmind.cathy 1 0 2023-03-09 00:49:59.221
+!MESSAGE Path queued to be opened: D:\Unreal\Project\ALSv4\ALSv4.xmind
+
+!ENTRY org.xmind.cathy 1 0 2023-03-09 00:50:05.438
+!MESSAGE Ready to open files: [D:\Unreal\Project\ALSv4\ALSv4.xmind]
+
+!ENTRY org.xmind.core.command 1 0 2023-03-09 00:50:05.452
+!MESSAGE Malformed URI: D:\Unreal\Project\ALSv4\ALSv4.xmind
+
+!ENTRY org.xmind.ui.mindmap 4 4 2023-03-09 01:11:18.787
+!MESSAGE [save] start...[save] add state...[save] clean...[save] doSave start...[save] doSaveWorkbookToTempStorage start...[save] doSaveWorkbookToTempStorage over...[save] doSaveWorkbookToURIFromSource start...[save] new file...[save] serialize start...[save] new FileOutputStream...[save] setOutputStream...[save] serialize success...[save] doSaveWorkbookToURIFromSource over...[save] doSave over...[save] success...over...
